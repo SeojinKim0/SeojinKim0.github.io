@@ -6,7 +6,7 @@ permalink: /projects/
 ## **Projects**
 
 **Portfolio website** \| *Jekyll*<br>
-[**Link**](/docs/index.markdown)<br>
+[**Link**](./index.markdown)<br>
 - This portfolio is built with Jekyll. It allows me to write Markdown and focus on the content of my portfolio :D
 
 **Gazprea Compiler** \| *C++, C, LLVM, ANTLR*<br>
